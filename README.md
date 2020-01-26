@@ -1,3 +1,3 @@
-**GIT:** https://github.com/PlayXman/skoleni-github_pages
+**GIT:** https://github.com/PlayXman/tutorial-github_pages
 
-**URL:** https://playxman.github.io/skoleni-github_pages/
+**URL:** https://playxman.github.io/tutorial-github_pages/
